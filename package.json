@@ -1,0 +1,20 @@
+{
+  "name": "barrettd1.github.io",
+  "version": "1.0.0",
+  "description": "My personal site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass assets/sass --output assets/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barrettd1/barrettd1.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barrettd1/barrettd1.github.io/issues"
+  },
+  "homepage": "https://github.com/barrettd1/barrettd1.github.io#readme"
+}
